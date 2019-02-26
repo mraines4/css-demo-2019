@@ -6,3 +6,14 @@ These are the styles for the whole document
 .main-title {
     background: red;
 }
+
+.fancy-font, 
+.navbar 
+{
+    font-family: 'Permanent Marker', cursive;
+
+    /* color: red;
+    color: #ff0000;
+    color: #f00; */
+    color: rgba(4, 41, 110, 0.858)
+}
