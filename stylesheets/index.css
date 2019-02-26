@@ -4,14 +4,16 @@ These are the styles for the whole document
 */
 
 .main-title {
-    background: red;
+    /* background: red; */
+    background: rgba(255, 0, 0, .45);
     /* padding: 100px; */
     /* padding-top: 10px;
     padding-bottom: 10px;
     padding left: 40px;
     padding right: 40px; */
-    padding: 10px 40px;
+    padding: 10px 20px 50px 40px;
     margin: 0;
+    margin-top: 20px;
 }
 
 .fancy-font, 
@@ -22,7 +24,6 @@ These are the styles for the whole document
     color: #ff0000;
     color: #f00; */
     color: rgba(4, 41, 110, 0.858);
-    color: green;
 }
 
 .navbar ul {
@@ -53,4 +54,5 @@ li {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    padding-top: 20px;
 }
