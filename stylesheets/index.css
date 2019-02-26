@@ -5,13 +5,14 @@ These are the styles for the whole document
 
 .main-title {
     background: red;
+    padding: 100px;
+    margin: 0;
 }
 
 .fancy-font, 
 .navbar 
 {
     font-family: 'Permanent Marker', cursive;
-
     /* color: red;
     color: #ff0000;
     color: #f00; */
